@@ -1,8 +1,8 @@
 {
- "open": false,
+ "open": true,
  "paused": null,
- "round": null,
- "ended": "✦ چالش دور ۳ به پایان رسید: هر ۳ جایزه به یابندگان رسید. گنج جدید به‌زودی!",
+ "round": 4,
+ "ended": null,
  "seats": [
   "1|1",
   "2|1",

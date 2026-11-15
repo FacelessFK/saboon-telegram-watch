@@ -1,7 +1,7 @@
 {
- "open": true,
+ "open": false,
  "paused": null,
- "round": 5,
+ "round": null,
  "ended": null,
  "seats": [
   "1|1",
@@ -13,6 +13,9 @@
   "3|3",
   "4|1",
   "4|2",
-  "4|3"
+  "4|3",
+  "5|1",
+  "5|2",
+  "5|3"
  ]
 }

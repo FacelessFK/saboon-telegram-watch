@@ -1,7 +1,7 @@
 {
- "open": false,
+ "open": true,
  "paused": null,
- "round": null,
+ "round": 5,
  "ended": null,
  "seats": [
   "1|1",
